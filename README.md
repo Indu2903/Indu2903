@@ -17,3 +17,7 @@ https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-j
 _----------JP Morgan-------------
 
 https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063307
+
+
+-------------citi------
+https://citi.zoom.us/j/3101268079?pwd=S2xhSURTMU1VTFNRTnlvMVUydWpMUT09&omn=99536904657
